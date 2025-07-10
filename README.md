@@ -16,4 +16,4 @@ SEO层面，关键词策略需动态调整，实时跟踪搜索热度变化并�
 
 最后，用户反馈与数据分析也是优化平台的重要手段。通过收集用户留言、浏览行为、设备类型等数据，不断迭代内容与页面架构，提升平台与用户之间的连接深度，形成正向增长闭环。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx4204 ）</span>
